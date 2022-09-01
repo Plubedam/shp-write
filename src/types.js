@@ -2,6 +2,7 @@ module.exports.geometries = {
     NULL: 0,
     POINT: 1,
     POLYLINE: 3,
+    MULTIPOLYGON: 5,
     POLYGON: 5,
     MULTIPOINT: 8,
     POINTZ: 11,
