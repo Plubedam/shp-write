@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 0.4
+* Support for MultiPolygon
+* File name option added
+* Folder name option added
+* New Dbf package used. Allows for longer header fields (8 to 10).
+
+## [0.3.2](https://github.com/mapbox/shp-write/compare/v0.3.1...v0.3.2) (2016-12-06)
+
 <a name="0.3.2"></a>
 ## [0.3.2](https://github.com/mapbox/shp-write/compare/v0.3.1...v0.3.2) (2016-12-06)
 
